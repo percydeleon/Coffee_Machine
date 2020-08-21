@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3787
+status: Solved
+feedback:
+  message: |-
+    Connection to server was interrupted
+
+    timeout
+  time: Mon, 27 Jul 2020 08:16:48 UTC
+record: -1

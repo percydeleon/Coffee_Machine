@@ -1,0 +1,110 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Problems/A simple calculator/out/
+/Problems/A simple calculator/out/production/classes/
+/Problems/Account and its owner/out/
+/Problems/Account and its owner/out/production/classes/
+/Problems/Arithmetic expression/out/
+/Problems/Arithmetic expression/out/production/classes/
+/Problems/Boys in a sport class/out/
+/Problems/Boys in a sport class/out/production/classes/
+/Problems/Check burgs/out/
+/Problems/Check burgs/out/production/classes/
+/Problems/Check if an array contains two numbers/out/
+/Problems/Check if an array contains two numbers/out/production/classes/
+/Problems/Check prefix ignoring the case/out/
+/Problems/Check prefix ignoring the case/out/production/classes/
+/Problems/Check the sum/out/
+/Problems/Check the sum/out/production/classes/
+/Problems/Check the value/out/
+/Problems/Check the value/out/production/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Problems/Count how many times a number occurs/out/
+/Problems/Count how many times a number occurs/out/production/classes/
+/Problems/Counter/out/
+/Problems/Counter/out/production/classes/
+/Problems/Danger levels/out/
+/Problems/Danger levels/out/production/classes/
+/Problems/Decrement all/out/
+/Problems/Decrement all/out/production/classes/
+/Problems/Desks/out/
+/Problems/Desks/out/production/classes/
+/Problems/Difference of times/out/
+/Problems/Difference of times/out/production/classes/
+/Problems/Direction/out/
+/Problems/Direction/out/production/classes/
+/Problems/Exactly one parameter is positive/out/
+/Problems/Exactly one parameter is positive/out/production/classes/
+/Problems/Extracting a substring/out/
+/Problems/Extracting a substring/out/production/classes/
+/Problems/First digit/out/
+/Problems/First digit/out/production/classes/
+/Problems/Fizz Buzz/out/
+/Problems/Fizz Buzz/out/production/classes/
+/Problems/Geometric cube/out/
+/Problems/Geometric cube/out/production/classes/
+/Problems/Good rest on vacation/out/
+/Problems/Good rest on vacation/out/production/classes/
+/Problems/Guest list of a hotel/out/
+/Problems/Guest list of a hotel/out/production/classes/
+/Problems/How many nuts each squirrel will get/out/
+/Problems/How many nuts each squirrel will get/out/production/classes/
+/Problems/Initializing an array of integers/out/
+/Problems/Initializing an array of integers/out/production/classes/
+/Problems/Maximum element divisible by four/out/
+/Problems/Maximum element divisible by four/out/production/classes/
+/Problems/Numbers divisible by six/out/
+/Problems/Numbers divisible by six/out/production/classes/
+/Problems/Patient needs a doctor/out/
+/Problems/Patient needs a doctor/out/production/classes/
+/Problems/Profit/out/
+/Problems/Profit/out/production/classes/
+/Problems/Project constants and methods/out/
+/Problems/Project constants and methods/out/production/classes/
+/Problems/Raise to the power/out/
+/Problems/Raise to the power/out/production/classes/
+/Problems/Reversing/out/
+/Problems/Reversing/out/production/classes/
+/Problems/Reversing input numbers/out/
+/Problems/Reversing input numbers/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Shape/out/
+/Problems/Shape/out/production/classes/
+/Problems/Simulating a clock/out/
+/Problems/Simulating a clock/out/production/classes/
+/Problems/Snail/out/
+/Problems/Snail/out/production/classes/
+/Problems/Squares of natural numbers/out/
+/Problems/Squares of natural numbers/out/production/classes/
+/Problems/The integer barrier/out/
+/Problems/The integer barrier/out/production/classes/
+/Problems/The largest element of a sequence/out/
+/Problems/The largest element of a sequence/out/production/classes/
+/Problems/The length of the sequence/out/
+/Problems/The length of the sequence/out/production/classes/
+/Problems/The number of tens/out/
+/Problems/The number of tens/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The secret enumeration/out/
+/Problems/The secret enumeration/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Problems/The sum of digits/out/
+/Problems/The sum of digits/out/production/classes/
+/Problems/The sum of elements/out/
+/Problems/The sum of elements/out/production/classes/
+/Problems/Too many cats/out/
+/Problems/Too many cats/out/production/classes/
+/Problems/Two numbers never occur next to each other/out/
+/Problems/Two numbers never occur next to each other/out/production/classes/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/

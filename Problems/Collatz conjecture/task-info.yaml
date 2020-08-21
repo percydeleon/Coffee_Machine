@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2234
+status: Solved
+feedback:
+  message: Failed to get check result from JetBrains Academy
+  time: Mon, 27 Jul 2020 13:41:47 UTC
+record: -1

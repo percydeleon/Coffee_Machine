@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Arrays;
+
+    public class Main {
+
+        public static void main(String[] args) {
+
+            long[] longNumbers;
+
+            System.out.println(Arrays.toString(longNumbers));
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2708
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2708">JetBrains
+    Academy</a></html>
+  time: Sat, 08 Aug 2020 17:04:11 UTC
+record: -1
